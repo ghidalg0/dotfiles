@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = guilhem.hidalgo@tetraktys-cm.com
+	name = Guilhem Hidalgo
